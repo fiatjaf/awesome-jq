@@ -18,13 +18,14 @@ _jq-based JSON visualizers and explorers_
 
 **Command-line**
 * [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) - **jq** itself, the command-line JSON processor.
-* [jiq](https://github.com/fiatjaf/jiq) - A visual command-line interactive JSON explorer with jq filters.
 * [yq](https://github.com/kislyuk/yq) (and `xq`) - jq wrapper for YAML and XML documents.
-* [jqr](https://github.com/charlesetc/jqr) - Early-stage jq REPL.
+* [ijq](https://github.com/fiatjaf/ijq) - jq REPL with automatic variable assignment and global statements support.
+* [jqr](https://github.com/charlesetc/jqr) - A pure-bash jq REPL.
+* [jiq](https://github.com/fiatjaf/jiq) - A visual command-line interactive JSON explorer with jq filters.
 
 **Web**
 * [jiq-web](https://jq.alhur.es/jiq/) ([github](https://github.com/fiatjaf/jiq-web)) - jiq, but in a web page.
-* [jqplay](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) - A playground for jq with sharing capabilities.
+* [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) - A playground for jq with sharing capabilities.
 * [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) - A multipanel, Finder-like, JSON explorer with jq filters instead of paths.
 * [jqaas](https://github.com/captn3m0/jqaas) - jq as a service, an open HTTP endpoint that executes jq queries.
 
