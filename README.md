@@ -57,7 +57,7 @@ _Incrementing jq capabilities_
 
 ## External libraries
 
-_For using jq from other languages_
+_Using jq from other languages_
 
 * [jackson-jq](https://github.com/eiiches/jackson-jq) - jq extension for the Java Jackson JSON Processor.
 * [jq-web](https://github.com/fiatjaf/jq-web) - jq compiled to JavaScript with emscripten.
@@ -69,7 +69,7 @@ _For using jq from other languages_
 * [jq-in-the-browser](https://github.com/kantord/jq-in-the-browser) - early-stage jq port in pure JavaScript.
 
 ## Contribute
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
