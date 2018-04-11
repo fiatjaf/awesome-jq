@@ -20,8 +20,9 @@ _jq-based JSON visualizers and explorers_
 * [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) - **jq** itself, the command-line JSON processor.
 * [yq](https://github.com/kislyuk/yq) (and `xq`) - jq wrapper for YAML and XML documents.
 * [ijq](https://github.com/fiatjaf/ijq) - jq REPL with automatic variable assignment and global statements support.
-* [jqr](https://github.com/charlesetc/jqr) - A pure-bash jq REPL.
+* [jqsh](https://github.com/bmatsuo/jqsh) - An interactive wrapper written in Go.
 * [jiq](https://github.com/fiatjaf/jiq) - A visual command-line interactive JSON explorer with jq filters.
+* [jqr](https://github.com/charlesetc/jqr) - A pure-bash jq REPL.
 
 **Web**
 * [jiq-web](https://jq.alhur.es/jiq/) ([github](https://github.com/fiatjaf/jiq-web)) - jiq, but in a web page.
@@ -35,6 +36,7 @@ _jq-based JSON visualizers and explorers_
 **Extensions**
 
 * [atom-jq](https://github.com/sanack/atom-jq) - Interactive jq playground inside the Atom editor.
+* [jq-mode](https://github.com/ljos/jq-mode) - A jq mode for Emacs.
 
 ## Use Cases
 
@@ -64,6 +66,7 @@ _Using jq from other languages_
 * [node-jq](https://github.com/sanack/node-jq) - A simple jq wrapper for Node.js.
 * [ruby-jq](https://github.com/winebarrel/ruby-jq) - A humble jq wrapper for Ruby.
 * [pyjq](https://github.com/doloopwhile/pyjq) - An honest jq wrapper for Python.
+* [php-ext-jq](https://github.com/kjdev/php-ext-jq) - PHP extension for running jq queries.
 * [java-jq](https://github.com/arakelian/java-jq) - A lightweight jq wrapper for Java.
 * [jqr](https://github.com/ropensci/jqr) - R interface to jq.
 * [jq-in-the-browser](https://github.com/kantord/jq-in-the-browser) - early-stage jq port in pure JavaScript.
