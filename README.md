@@ -1,11 +1,14 @@
-# Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://stedolan.github.io/jq/jq.png" width="200" align="right" alt="./jq">](https://github.com/stedolan/jq)
+Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://stedolan.github.io/jq/jq.png" width="200" align="right" alt="./jq">](https://github.com/stedolan/jq)
+========================================================================
 
-A curated list of awesome things built with the JSON processor and _turing-complete functional language_ **jq**.
+A curated list of awesome things built with the JSON processor and
+_turing-complete functional language_ **jq**.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-* [Awesome jq](#awesome-jq)
+* [Awesome **jq**](#awesome-jq)
   * [Tools](#tools)
+  * [Documentation](#documentation)
   * [Use Cases](#use-cases)
   * [Libraries and tools for jq itself](#libraries-and-tools-for-jq-itself)
   * [External libraries](#external-libraries)
@@ -14,7 +17,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ----
 
-## Tools
+
+Tools
+------------------------------------------------------------------------
 
 _**jq**-based JSON visualizers and explorers_.
 
@@ -43,18 +48,55 @@ _**jq**-based JSON visualizers and explorers_.
 * [atom-jq](https://github.com/sanack/atom-jq) &ndash; Interactive **jq** playground inside the Atom editor.
 * [jq-mode](https://github.com/ljos/jq-mode) &ndash; A **jq** mode for Emacs.
 
-## Use Cases
+
+Documentation
+------------------------------------------------------------------------
+
+_Readings about **jq**_.
+
+### Core documentation
+
+* [Manual](https://stedolan.github.io/jq/manual/) &ndash; **jq** manual (development version).
+* [FAQ](https://github.com/stedolan/jq/wiki/FAQ) &ndash; **jq** FAQ.
+* [Cookbook](https://github.com/stedolan/jq/wiki/Cookbook) &ndash; **jq** cookbook.
+* [Advanced Topics](https://github.com/stedolan/jq/wiki/Advanced-Topics) &ndash; **jq** advanced topics.
+
+### Tutorials and articles
+
+* [Wikipedia **jq** article](https://en.wikipedia.org/wiki/Jq_(programming_language)).
+* [Bash that JSON (with jq)](http://blog.librato.com/posts/jq-json).
+* [Data & Rule Management with jq](http://support.gnip.com/articles/data-and-rule-management-with-jq.html).
+* [Discover how to use jq](https://webgeodatavore.com/jq-json-manipulation-command-line-with-geojson.html).
+* [JSON on the command line with jq](https://shapeshed.com/jq-json/).
+* [Official tutorial](https://stedolan.github.io/jq/tutorial/) &ndash; The &ldquo;official&rdquo; tutorial.
+* [Parsing JSON with jq](http://www.compciv.org/recipes/cli/jq-for-parsing-json/).
+* [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq).
+* [Tech Mavens | jq Tutorial](https://techmavens.com/jq+Tutorial).
+* [Using JQ to extract info from AEM](https://articles.tbscg.com/using-jq-to-extract-info-from-aem/).
+* [Wrestling JSON with jq](http://arjanvandergaag.nl/blog/wrestling-json-with-jq.html).
+* [jq is sed for JSON](https://robots.thoughtbot.com/jq-is-sed-for-json).
+
+### Code examples
+
+* [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) &ndash; Dozens of algorithms written in **jq** .
+* [Builtins](https://github.com/stedolan/jq/blob/master/src/builtin.jq) &ndash; **jq** builtins coded in _jq_ itself, not C.
+
+
+Use Cases
+------------------------------------------------------------------------
 
 _Apps using **jq** in the wild_.
 
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses **jq** as expression language.
 * [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a **jq** transformer.
-* [jq-voronoi](https://github.com/hosuaby/jq-voronoi) &ndash; Implementation of Fortune's algorithm to calculate Voronoi diagram on **jq**.
+* [jq-voronoi](https://github.com/hosuaby/jq-voronoi) &ndash; Implementation of Fortune’s algorithm to calculate Voronoi diagram on **jq**.
 * [bf.jq](https://github.com/MakeNowJust/bf.jq) &ndash; A Brainfuck interpreter written in **jq**.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and **jq** filters as strings) serving as the only source of configuration.
 * [jtool](https://github.com/fadado/jtool) &ndash; **jq**-based JSON tools for a modern shell.
 
-## Libraries and tools for jq itself
+
+Libraries and tools for jq itself
+------------------------------------------------------------------------
 
 _Incrementing **jq** capabilities_.
 
@@ -62,7 +104,9 @@ _Incrementing **jq** capabilities_.
 * [JBOL](https://github.com/fadado/JBOL) &ndash; A collection of utility modules for **jq** (math, prelude, set, string etc.).
 * [bigint](https://github.com/joelpurra/jq-bigint), [array](https://github.com/joelpurra/jq-disarray), [string](https://github.com/joelpurra/jq-stress) and [other libraries](https://github.com/joelpurra?utf8=%E2%9C%93&tab=repositories&q=jq) &ndash; **jq** libraries from the author of jqnpm.
 
-## External libraries
+
+External libraries
+------------------------------------------------------------------------
 
 _Using **jq** from other languages_.
 
@@ -76,11 +120,17 @@ _Using **jq** from other languages_.
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
 * [jq-in-the-browser](https://github.com/kantord/jq-in-the-browser) &ndash; Early-stage **jq** port in pure JavaScript.
 
-## Contribute
 
-Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).
+Contribute
+------------------------------------------------------------------------
 
-## License
+Please contribute! Open an issue or a PR and we’ll discuss it or merge it. If
+you’re opening a PR, please ensure all formatting is ok (if you’re in a hurry
+just open an issue).
+
+
+License
+------------------------------------------------------------------------
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
