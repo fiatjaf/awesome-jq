@@ -119,7 +119,6 @@ _Using **jq** from other languages_.
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for running **jq** queries.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A lightweight **jq** wrapper for Java.
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
-* [jq-in-the-browser](https://github.com/kantord/jq-in-the-browser) &ndash; Early-stage **jq** port in pure JavaScript.
 
 
 Contribute
