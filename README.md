@@ -31,6 +31,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
 * [jiq](https://github.com/fiatjaf/jiq) &ndash; A visual command-line interactive JSON explorer with **jq** filters.
 * [jqr](https://github.com/charlesetc/jqr) &ndash; A pure-bash **jq** REPL.
+* [jqn](https://github.com/FGRibreau/jq.node) &ndash; Like jq but with JavaScript (300+ helpers & 300K+ modules)
 
 ### Web
 
