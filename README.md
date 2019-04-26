@@ -101,7 +101,7 @@ External libraries
 
 _Using **jq** from other languages_.
 
-* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang bindings for libjq.
+* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for libjq (not a CLI wrapper).
 * [jackson-jq](https://github.com/eiiches/jackson-jq) &ndash; **jq** extension for the Java Jackson JSON Processor.
 * [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** compiled to JavaScript with emscripten.
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A simple **jq** wrapper for Node.js.
