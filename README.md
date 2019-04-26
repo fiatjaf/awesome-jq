@@ -4,8 +4,6 @@ Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fe
 A curated list of awesome things built with the JSON processor and
 _turing-complete functional language_ **jq**.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
-
 * [Awesome **jq**](#awesome-jq)
   * [Tools](#tools)
   * [Documentation](#documentation)
