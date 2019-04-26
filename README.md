@@ -62,18 +62,11 @@ _Readings about **jq**_.
 * [Cookbook](https://github.com/stedolan/jq/wiki/Cookbook) &ndash; **jq** cookbook.
 * [Advanced Topics](https://github.com/stedolan/jq/wiki/Advanced-Topics) &ndash; **jq** advanced topics.
 
-### Tutorials and articles
+### Good small specific tutorials
 
-* [Wikipedia **jq** article](https://en.wikipedia.org/wiki/Jq_(programming_language)).
 * [Bash that JSON (with jq)](http://blog.librato.com/posts/jq-json).
-* [Data & Rule Management with jq](http://support.gnip.com/articles/data-and-rule-management-with-jq.html).
-* [Discover how to use jq](https://webgeodatavore.com/jq-json-manipulation-command-line-with-geojson.html).
 * [JSON on the command line with jq](https://shapeshed.com/jq-json/).
-* [Parsing JSON with jq](http://www.compciv.org/recipes/cli/jq-for-parsing-json/).
 * [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq).
-* [Tech Mavens | jq Tutorial](https://techmavens.com/jq+Tutorial).
-* [Using JQ to extract info from AEM](https://articles.tbscg.com/using-jq-to-extract-info-from-aem/).
-* [Wrestling JSON with jq](http://arjanvandergaag.nl/blog/wrestling-json-with-jq.html).
 * [jq is sed for JSON](https://robots.thoughtbot.com/jq-is-sed-for-json).
 
 ### Code examples
