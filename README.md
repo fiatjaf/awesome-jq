@@ -69,7 +69,6 @@ _Readings about **jq**_.
 * [Data & Rule Management with jq](http://support.gnip.com/articles/data-and-rule-management-with-jq.html).
 * [Discover how to use jq](https://webgeodatavore.com/jq-json-manipulation-command-line-with-geojson.html).
 * [JSON on the command line with jq](https://shapeshed.com/jq-json/).
-* [Official tutorial](https://stedolan.github.io/jq/tutorial/) &ndash; The &ldquo;official&rdquo; tutorial.
 * [Parsing JSON with jq](http://www.compciv.org/recipes/cli/jq-for-parsing-json/).
 * [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq).
 * [Tech Mavens | jq Tutorial](https://techmavens.com/jq+Tutorial).
@@ -111,6 +110,7 @@ External libraries
 
 _Using **jq** from other languages_.
 
+* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang bindings for libjq.
 * [jackson-jq](https://github.com/eiiches/jackson-jq) &ndash; **jq** extension for the Java Jackson JSON Processor.
 * [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** compiled to JavaScript with emscripten.
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A simple **jq** wrapper for Node.js.
@@ -133,4 +133,3 @@ License
 ------------------------------------------------------------------------
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
