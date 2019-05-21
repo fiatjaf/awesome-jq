@@ -84,7 +84,7 @@ _Apps using **jq** in the wild_.
 * [bf.jq](https://github.com/MakeNowJust/bf.jq) &ndash; A Brainfuck interpreter written in **jq**.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and **jq** filters as strings) serving as the only source of configuration.
 * [jtool](https://github.com/fadado/jtool) &ndash; **jq**-based JSON tools for a modern shell.
-
+* [sc](https://github.com/annacrombie/sc) &ndash; A lightweight soundcloud client, with a composable api, powered by **jq**.
 
 Libraries and tools for jq itself
 ------------------------------------------------------------------------
