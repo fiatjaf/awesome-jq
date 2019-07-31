@@ -82,7 +82,7 @@ _Apps using **jq** in the wild_.
 * [sc](https://github.com/annacrombie/sc) &ndash; A lightweight soundcloud client, with a composable api, powered by **jq**.
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses **jq** as expression language.
 * [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a **jq** transformer.
-* [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables **jq** queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments;
+* [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables **jq** queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments.
 * [jtool](https://github.com/fadado/jtool) &ndash; **jq**-based JSON tools for a modern shell.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and **jq** filters as strings) serving as the only source of configuration.
 * [bf.jq](https://github.com/MakeNowJust/bf.jq) &ndash; A Brainfuck interpreter written in **jq**.
@@ -103,14 +103,13 @@ External libraries
 
 _Using **jq** from other languages_.
 
-* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for libjq (not a CLI wrapper).
-* [jackson-jq](https://github.com/eiiches/jackson-jq) &ndash; **jq** extension for the Java Jackson JSON Processor.
-* [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** compiled to JavaScript with emscripten.
-* [node-jq](https://github.com/sanack/node-jq) &ndash; A simple **jq** wrapper for Node.js.
-* [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A humble **jq** wrapper for Ruby.
-* [pyjq](https://github.com/doloopwhile/pyjq) &ndash; An honest **jq** wrapper for Python.
-* [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for running **jq** queries.
-* [java-jq](https://github.com/arakelian/java-jq) &ndash; A lightweight **jq** wrapper for Java.
+* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for libjq (not a CLI wrapper, [jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
+* [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** itself compiled to JavaScript with emscripten.
+* [node-jq](https://github.com/sanack/node-jq) &ndash; A **jq** wrapper for Node.js.
+* [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A **jq** wrapper for Ruby.
+* [pyjq](https://github.com/doloopwhile/pyjq) &ndash; An **jq** wrapper for Python.
+* [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for **jq**.
+* [java-jq](https://github.com/arakelian/java-jq) &ndash; A **jq** wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
 
 
