@@ -47,6 +47,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [jq-mode](https://github.com/ljos/jq-mode) &ndash; A **jq** mode for Emacs.
 * [vscode-jq](https://github.com/andricDu/vscode-jq) &ndash; A **jq** extension for VS Code.
 * [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; A **jq** playground notebook extension for VS Code.
+* `:%!jq '.'` is a Vim command that formats JSON in-place with **jq** (beware of any other tricks you might be thinking of).
 
 
 Documentation
@@ -103,7 +104,7 @@ External libraries
 
 _Using **jq** from other languages_.
 
-* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for libjq (not a CLI wrapper, [jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
+* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
 * [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** itself compiled to JavaScript with emscripten.
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A **jq** wrapper for Node.js.
 * [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A **jq** wrapper for Ruby.
