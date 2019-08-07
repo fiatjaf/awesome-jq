@@ -24,6 +24,7 @@ _**jq**-based JSON visualizers and explorers_.
 ### Command-line
 
 * [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) &ndash; **jq** itself, the command-line JSON processor.
+* [faq](https://github.com/jzelinskie/faq) &ndash; CLI program that processes BSON, Bencode, JSON, TOML, XML, YAML using **libjq**.
 * [yq](https://github.com/kislyuk/yq) (and `xq`) &ndash; **jq** wrapper for YAML and XML documents.
 * [ijq](https://github.com/fiatjaf/ijq) &ndash; **jq** REPL with automatic variable assignment and global statements support.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
