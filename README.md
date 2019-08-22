@@ -44,12 +44,12 @@ _**jq**-based JSON visualizers and explorers_.
 
 ### Extensions
 
+* [bro/q](https://github.com/zalando-incubator/bro-q) &ndash; A Chrome Extension for JSON formatting and **jq** filtering.
 * [atom-jq](https://github.com/sanack/atom-jq) &ndash; Interactive **jq** playground inside the Atom editor.
 * [jq-mode](https://github.com/ljos/jq-mode) &ndash; A **jq** mode for Emacs.
 * [vscode-jq](https://github.com/andricDu/vscode-jq) &ndash; A **jq** extension for VS Code.
 * [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; A **jq** playground notebook extension for VS Code.
 * `:%!jq '.'` is a Vim command that formats JSON in-place with **jq** (beware of any other tricks you might be thinking of).
-* [bro/q](https://chrome.google.com/webstore/detail/broq/aghegpphmmjbpammdalkbhpadjafmghj) ([github](https://github.com/zalando-incubator/bro-q)) &ndash; A Chrome Web Browser Extension for JSON formatting and **jq** filtering right in your browser.
 
 
 Documentation
