@@ -82,12 +82,13 @@ Use Cases
 
 _Apps using **jq** in the wild_.
 
-* [sc](https://github.com/annacrombie/sc) &ndash; A lightweight soundcloud client, with a composable api, powered by **jq**.
+* [sc](https://github.com/annacrombie/sc) &ndash; A lightweight [SoundCloud](https://soundcloud.com/) client, with a composable api, powered by **jq**.
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses **jq** as expression language.
 * [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a **jq** transformer.
 * [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables **jq** queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments.
 * [jtool](https://github.com/fadado/jtool) &ndash; **jq**-based JSON tools for a modern shell.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and **jq** filters as strings) serving as the only source of configuration.
+* [jqmethods](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/jqmethods) &ndash; A [lightningd](https://github.com/ElementsProject/lightning/) plugin for filtering Lightning Network data with prewritten, shared **jq** scripts.
 * [bf.jq](https://github.com/MakeNowJust/bf.jq) &ndash; A Brainfuck interpreter written in **jq**.
 * [jq-voronoi](https://github.com/hosuaby/jq-voronoi) &ndash; Implementation of Fortune’s algorithm to calculate Voronoi diagram on **jq**.
 
