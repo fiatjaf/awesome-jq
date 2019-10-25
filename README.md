@@ -49,6 +49,8 @@ _**jq**-based JSON visualizers and explorers_.
 * [jq-mode](https://github.com/ljos/jq-mode) &ndash; A **jq** mode for Emacs.
 * [vscode-jq](https://github.com/andricDu/vscode-jq) &ndash; A **jq** extension for VS Code.
 * [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; A **jq** playground notebook extension for VS Code.
+* [vim-jq](https://github.com/bfrg/vim-jq) &ndash; Vim runtime files (syntax highlighting, etc.) for **jq** script files.
+* [vim-jqplay](https://github.com/bfrg/vim-jqplay) &ndash; Interactive **jq** playground inside Vim.
 * `:%!jq '.'` is a Vim command that formats JSON in-place with **jq** (beware of any other tricks you might be thinking of).
 
 
