@@ -109,8 +109,9 @@ External libraries
 
 _Using **jq** from other languages_.
 
-* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
+* [go-jq](https://github.com/itchyny/gojq) &ndash; A _full_ **jq** implementation in Go, usable either as a library or as a standalone CLI.
 * [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** itself compiled to JavaScript with emscripten.
+* [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A **jq** wrapper for Node.js.
 * [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A **jq** wrapper for Ruby.
 * [pyjq](https://github.com/doloopwhile/pyjq) &ndash; An **jq** wrapper for Python.
