@@ -30,7 +30,6 @@ _**jq**-based JSON visualizers and explorers_.
 * [ijq](https://github.com/fiatjaf/ijq) &ndash; **jq** REPL with automatic variable assignment and global statements support.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
 * [jiq](https://github.com/fiatjaf/jiq) &ndash; A visual command-line interactive JSON explorer with **jq** filters.
-* [jqr](https://github.com/charlesetc/jqr) &ndash; A pure-bash **jq** REPL.
 
 ### Web
 
@@ -52,6 +51,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; A **jq** playground notebook extension for VS Code.
 * [vim-jqplay](https://github.com/bfrg/vim-jqplay) &ndash; Interactive **jq** playground inside Vim.
 * `:%!jq '.'` is a Vim command that formats JSON in-place with **jq** (beware of any other tricks you might be thinking of).
+* [@runjqbot](https://github.com/fiatjaf/runjqbot) &ndash; A Telegram bot that executes arbitrary **jq** code.
 
 
 Documentation
@@ -85,6 +85,7 @@ Use Cases
 _Apps using **jq** in the wild_.
 
 * [sc](https://github.com/annacrombie/sc) &ndash; A lightweight [SoundCloud](https://soundcloud.com/) client, with a composable api, powered by **jq**.
+* [@incomingnotificationbot](https://t.me/incomingnotificationbot) &ndash; A [Telegram](https://telegram.org/) bot that gives you HTTP endpoints and notifies you when a webhook arrives, filtering and formatting content with **jq**.
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses **jq** as expression language.
 * [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a **jq** transformer.
 * [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables **jq** queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments.
@@ -114,7 +115,7 @@ _Using **jq** from other languages_.
 * [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A **jq** wrapper for Node.js.
 * [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A **jq** wrapper for Ruby.
-* [pyjq](https://github.com/doloopwhile/pyjq) &ndash; An **jq** wrapper for Python.
+* [pyjq](https://github.com/doloopwhile/pyjq) &ndash; A **jq** wrapper for Python.
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for **jq**.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A **jq** wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
