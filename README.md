@@ -91,9 +91,9 @@ _Apps using **jq** in the wild_.
 * [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables **jq** queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments.
 * [jtool](https://github.com/fadado/jtool) &ndash; **jq**-based JSON tools for a modern shell.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and **jq** filters as strings) serving as the only source of configuration.
-* [jqmethods](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/jqmethods) &ndash; A [lightningd](https://github.com/ElementsProject/lightning/) plugin for filtering Lightning Network data with prewritten, shared **jq** scripts.
 * [bf.jq](https://github.com/MakeNowJust/bf.jq) &ndash; A Brainfuck interpreter written in **jq**.
 * [jq-voronoi](https://github.com/hosuaby/jq-voronoi) &ndash; Implementation of Fortune’s algorithm to calculate Voronoi diagram on **jq**.
+* [etleneum](https://etleneum.com/) &ndash; A centralized smart contract platform that works with sats and uses **jq** for easing the life of clients that want to fetch JSON states.
 
 Libraries and tools for jq itself
 ------------------------------------------------------------------------
