@@ -122,6 +122,7 @@ _Using **jq** from other languages_.
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for **jq**.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A **jq** wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
+* [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A **jq** filter for [Ansible](https://ansible.com) confiruation manager.
 
 
 Contribute
