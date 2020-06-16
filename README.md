@@ -39,6 +39,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for **jq** with sharing capabilities.
 * [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with **jq** filters instead of paths.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; **jq** as a service, an open HTTP endpoint that executes **jq** queries.
+* [jq kung fu](https://www.jqkungfu.com/) &ndash; A **jq** playground in WebAssembly, where the original **jq**'s C++ code was compiled to WebAssembly, using Emscripten.
 
 ### Desktop
 
