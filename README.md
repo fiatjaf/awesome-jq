@@ -119,13 +119,14 @@ _Using **jq** from other languages_.
 * [gojq](https://github.com/itchyny/gojq) &ndash; A _full_ **jq** implementation in Go, usable either as a library or as a standalone CLI.
 * [jq-web](https://github.com/fiatjaf/jq-web) &ndash; **jq** itself compiled to JavaScript with _emscripten_. There's also an alternative at [jqdash](https://www.npmjs.com/package/jqdash).
 * [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
+* [libjq-go](https://github.com/flant/libjq-go) &ndash; Golang cgo bindings for **libjq**. This one works with recent versions of **jq**: 1.5, 1.6+.
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A **jq** wrapper for Node.js.
 * [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A **jq** wrapper for Ruby.
 * [pyjq](https://github.com/doloopwhile/pyjq) &ndash; A **jq** wrapper for Python.
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for **jq**.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A **jq** wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
-* [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A **jq** filter for [Ansible](https://ansible.com) confiruation manager.
+* [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A **jq** filter for [Ansible](https://ansible.com) configuration manager.
 
 
 Contribute
