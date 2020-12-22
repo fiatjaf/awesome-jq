@@ -91,6 +91,7 @@ Use Cases
 _Apps using **jq** in the wild_.
 
 * [sc](https://github.com/annacrombie/sc) &ndash; A lightweight [SoundCloud](https://soundcloud.com/) client, with a composable api, powered by **jq**.
+* [jc](https://github.com/kellyjonbrazil/jc) &ndash; CLI tool that converts the output of popular command-line programs and filetypes to JSON so they can be piped to **jq**.
 * [@incomingnotificationbot](https://t.me/incomingnotificationbot) &ndash; A [Telegram](https://telegram.org/) bot that gives you HTTP endpoints and notifies you when a webhook arrives, filtering and formatting content with **jq**.
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses **jq** as expression language.
 * [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a **jq** transformer.
