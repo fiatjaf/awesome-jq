@@ -124,7 +124,7 @@ _Using **jq** from other languages_.
 * [node-jq](https://github.com/sanack/node-jq) &ndash; A **jq** wrapper for Node.js.
 * [ruby-jq](https://github.com/winebarrel/ruby-jq) &ndash; A **jq** wrapper for Ruby.
 * [pyjq](https://github.com/doloopwhile/pyjq) &ndash; A **jq** wrapper for Python.
-* [jq](https://github.com/mwilliamson/jq.py) &ndash; Another **jq** wrapper for Python.
+* [jq.py](https://github.com/mwilliamson/jq.py) &ndash; Another **jq** wrapper for Python.
 * [php-ext-jq](https://github.com/kjdev/php-ext-jq) &ndash; PHP extension for **jq**.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A **jq** wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to **jq**.
