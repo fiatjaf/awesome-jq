@@ -1,7 +1,7 @@
 Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://stedolan.github.io/jq/jq.png" width="200" align="right" alt="./jq">](https://github.com/stedolan/jq)
 ========================================================================
 
-A curated list of awesome things built with the JSON processor and
+A curated list of awesome things built with the [JSON](https://www.json.org/json-en.html) processor and
 _turing-complete functional language_ **jq**.
 
 * [Awesome **jq**](#awesome-jq)
