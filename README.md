@@ -79,6 +79,7 @@ _Readings about **jq**_.
 * [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq).
 * [jq is sed for JSON](https://robots.thoughtbot.com/jq-is-sed-for-json).
 * [Mastering jq: part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
+* [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
 
 ### Code examples
 
