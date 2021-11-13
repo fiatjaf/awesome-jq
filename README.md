@@ -51,6 +51,7 @@ _**jq**-based JSON visualizers and explorers_.
 ### Extensions
 
 * [bro/q](https://github.com/zalando-incubator/bro-q) &ndash; A Chrome Extension for JSON formatting and **jq** filtering.
+* [virtual-json-viewer](https://github.com/paolosimone/virtual-json-viewer) &ndash; A JSON Chrome/Firefox Extension with virtual DOM, full-text search and **jq** filtering.
 * [atom-jq](https://github.com/sanack/atom-jq) &ndash; Interactive **jq** playground inside the Atom editor.
 * [jq-mode](https://github.com/ljos/jq-mode) &ndash; A **jq** mode for Emacs.
 * [vscode-jq](https://github.com/andricDu/vscode-jq) &ndash; A **jq** extension for VS Code.
