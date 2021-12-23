@@ -34,6 +34,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [ijq](https://github.com/fiatjaf/ijq) &ndash; **jq** REPL with automatic variable assignment and global statements support.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
 * [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) zsh line editor for constructing jq queries interactively.
+* [fq](https://github.com/wader/fq) &ndash; jq for binary formats
 
 ### Web
 
