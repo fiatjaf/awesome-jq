@@ -43,6 +43,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [jq kung fu](https://www.jqkungfu.com/) &ndash; A **jq** playground in WebAssembly powered by the original **jq** compiled with _emscripten_.
 * [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with **jq** filters instead of paths.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; **jq** as a service, an open HTTP endpoint that executes **jq** queries.
+* [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using **jq**.
 
 ### Desktop
 
