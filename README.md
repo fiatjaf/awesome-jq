@@ -25,6 +25,7 @@ _**jq**-based JSON visualizers and explorers_.
 
 * [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) &ndash; **jq** itself, the command-line JSON processor.
 * [gojq](https://github.com/itchyny/gojq) &ndash; A _full_ **jq** implementation in Go (yes), also usable as a library.
+* [jaq](https://lib.rs/crates/jaq) &ndash; A **jq** implementation in Rust that misses some small features but is often more correct than the original.
 * [faq](https://github.com/jzelinskie/faq) &ndash; CLI program that processes BSON, Bencode, JSON, TOML, XML, YAML using **libjq**.
 * [jiq](https://github.com/fiatjaf/jiq) &ndash; A visual command-line interactive JSON explorer with **jq** filters.
 * `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` &ndash; An [fzf](https://github.com/junegunn/fzf) hack that turns it into an interactive **jq** explorer.
