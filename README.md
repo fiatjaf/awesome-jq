@@ -36,6 +36,7 @@ _**jq**-based JSON visualizers and explorers_.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
 * [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) zsh line editor for constructing jq queries interactively.
 * [fq](https://github.com/wader/fq) &ndash; jq for binary formats
+* [jq-fish-plugin](https://github.com/jihchi/jq-fish-plugin) &ndash; Inspired by [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin), interactively build jq expressions in fish shell.
 
 ### Web
 
