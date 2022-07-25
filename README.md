@@ -100,7 +100,6 @@ _Apps using **jq** in the wild_.
 * [jqmd](https://github.com/bashup/jqmd) &ndash; A "literate devops" tool that allows embedding jq code, shell scripts, YAML, and JSON in a markdown document and making it executable. (A bit like R markdown or IPython notebooks, except with shell/jq/YAML/JSON, and as a CLI scripting tool rather than a GUI.)
 * [sc](https://github.com/annacrombie/sc) &ndash; A lightweight [SoundCloud](https://soundcloud.com/) client, with a composable api, powered by **jq**.
 * [jc](https://github.com/kellyjonbrazil/jc) &ndash; CLI tool that converts the output of popular command-line programs and filetypes to JSON so they can be piped to **jq**.
-* [@incomingnotificationbot](https://t.me/incomingnotificationbot) &ndash; A [Telegram](https://telegram.org/) bot that gives you HTTP endpoints and notifies you when a webhook arrives, filtering and formatting content with **jq**.
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses **jq** as expression language.
 * [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a **jq** transformer.
 * [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables **jq** queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments.
@@ -108,7 +107,6 @@ _Apps using **jq** in the wild_.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and **jq** filters as strings) serving as the only source of configuration.
 * [bf.jq](https://github.com/MakeNowJust/bf.jq) &ndash; A Brainfuck interpreter written in **jq**.
 * [jq-voronoi](https://github.com/hosuaby/jq-voronoi) &ndash; Implementation of Fortune’s algorithm to calculate Voronoi diagram on **jq**.
-* [etleneum](https://etleneum.com/) &ndash; A centralized smart contract platform that works with sats and uses **jq** for easing the life of clients that want to fetch JSON states.
 
 Libraries and tools for jq itself
 ------------------------------------------------------------------------
