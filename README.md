@@ -135,6 +135,7 @@ _Using jq from other languages_.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A jq wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to jq.
 * [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A jq filter for [Ansible](https://ansible.com) configuration manager.
+* [query-json](https://github.com/davesnx/query-json) &ndash; Faster, simpler and more portable implementation of jq in Reason + a [playground] (https://query-json.netlify.app)
 
 
 Contribute
