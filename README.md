@@ -16,6 +16,16 @@ _turing-complete functional language_ **jq**.
 ----
 
 
+Implementations
+------------------------------------------------------------------------
+
+_Standalone implementations of the jq language._
+
+* [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) &ndash; The original jq command-line JSON processor.
+* [gojq](https://github.com/itchyny/gojq) &ndash; A jq implementation in Go.
+* [jaq](https://lib.rs/crates/jaq) &ndash; A jq implementation in Rust that misses some small features but is often more correct than the original.
+* [query-json (`q`)](https://github.com/davesnx/query-json) &ndash; query-json is a faster, simpler and more portable implementation of the jq language in Reason.
+
 Tools
 ------------------------------------------------------------------------
 
@@ -23,9 +33,6 @@ _jq-based JSON visualizers and explorers_.
 
 ### Command-line
 
-* [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) &ndash; jq itself, the command-line JSON processor.
-* [gojq](https://github.com/itchyny/gojq) &ndash; A _full_ jq implementation in Go (yes), also usable as a library.
-* [jaq](https://lib.rs/crates/jaq) &ndash; A jq implementation in Rust that misses some small features but is often more correct than the original.
 * [faq](https://github.com/jzelinskie/faq) &ndash; CLI program that processes BSON, Bencode, JSON, TOML, XML, YAML using **libjq**.
 * [jiq](https://github.com/fiatjaf/jiq) &ndash; A visual command-line interactive JSON explorer with jq filters.
 * `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` &ndash; An [fzf](https://github.com/junegunn/fzf) hack that turns it into an interactive jq explorer.
@@ -40,10 +47,11 @@ _jq-based JSON visualizers and explorers_.
 
 ### Web
 
-* [jiq-web](https://jq.alhur.es/jiq/) ([github](https://github.com/fiatjaf/jiq-web)) &ndash; jiq, but in a web page.
+* [query-json playground](https://query-json.netlify.app)  &ndash; Web playground that uses `query-json` compiled to JavaScript.
+* [jiq-web](https://jq.alhur.es/jiq/) ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for jq with sharing capabilities.
 * [jq kung fu](https://www.jqkungfu.com/) &ndash; A jq playground in WebAssembly powered by the original jq compiled with _emscripten_.
-* [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths.
+* [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses `jq-web`.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
 
@@ -123,7 +131,7 @@ External libraries
 
 _Using jq from other languages_.
 
-* [gojq](https://github.com/itchyny/gojq) &ndash; A _full_ jq implementation in Go, usable either as a library or as a standalone CLI.
+* [gojq](https://github.com/itchyny/gojq) &ndash; A full jq implementation in Go, usable as a library.
 * [jq-web](https://github.com/fiatjaf/jq-web) &ndash; jq itself compiled to JavaScript with _emscripten_. There's also an alternative at [jqdash](https://www.npmjs.com/package/jqdash).
 * [jq-go](https://github.com/threatgrid/jq-go) &ndash; Golang cgo bindings for **libjq** ([jqpipe-go](https://github.com/threatgrid/jqpipe-go) is a CLI wrapper from the same people).
 * [libjq-go](https://github.com/flant/libjq-go) &ndash; Golang cgo bindings for **libjq**. This one works with recent versions of jq: 1.5, 1.6+.
@@ -135,7 +143,6 @@ _Using jq from other languages_.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A jq wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to jq.
 * [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A jq filter for [Ansible](https://ansible.com) configuration manager.
-* [query-json](https://github.com/davesnx/query-json) &ndash; Faster, simpler and more portable implementation of jq in Reason + a [playground] (https://query-json.netlify.app)
 
 
 Contribute
