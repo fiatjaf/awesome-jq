@@ -99,6 +99,9 @@ _Readings about jq_.
 * [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) &ndash; Dozens of algorithms written in jq .
 * [Builtins](https://github.com/stedolan/jq/blob/master/src/builtin.jq) &ndash; jq builtins coded in _jq_ itself, not C.
 
+### Documentation browsers
+
+* [jq dash docset](https://github.com/wader/jq-dash-docset)
 
 Use Cases
 ------------------------------------------------------------------------
