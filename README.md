@@ -70,7 +70,6 @@ _jq-based JSON visualizers and explorers_.
 * [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; A jq playground notebook extension for VS Code.
 * [vim-jqplay](https://github.com/bfrg/vim-jqplay) &ndash; Interactive jq playground inside Vim.
 * `:%!jq '.'` is a Vim command that formats JSON in-place with jq (beware of any other tricks you might be thinking of).
-* [@runjqbot](https://github.com/fiatjaf/runjqbot) &ndash; A Telegram bot that executes arbitrary jq code.
 * [vscode-jq](https://github.com/wader/vscode-jq) + [jq-lsp](https://github.com/wader/jq-lsp) VSCode jq extension with LSP support. Syntax highlight, syntax checking, completion and hover documentation.
 
 Documentation
