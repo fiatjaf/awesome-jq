@@ -5,6 +5,7 @@ A curated list of awesome things built with the JSON processor and
 _turing-complete functional language_ **jq**.
 
 * [Awesome jq](#awesome-jq)
+  * [Implementations](#implementations)
   * [Tools](#tools)
   * [Documentation](#documentation)
   * [Use Cases](#use-cases)
