@@ -41,6 +41,7 @@ _jq-based JSON visualizers and explorers_.
 * `echo '' | fzf --print-query --preview "cat *.json | jq {q}"` &ndash; An [fzf](https://github.com/junegunn/fzf) hack that turns it into an interactive jq explorer.
 * [jqq](https://github.com/jcsalterego/jqq/) &ndash; A visual command-line interactive jq explorer written in Ruby.
 * [yq](https://github.com/kislyuk/yq) (and `xq`) &ndash; jq wrapper for YAML and XML documents.
+* [yq](https://github.com/mikefarah/yq) &ndash; YAML, JSON and XML processor, written in go and uses `jq` like syntax.
 * [yiq](https://github.com/zoetrope/yiq) &ndash; Like `jiq`, but using `yq` instead, so it supports YAML documents.
 * [ijq](https://github.com/fiatjaf/ijq) &ndash; jq REPL with automatic variable assignment and global statements support.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
