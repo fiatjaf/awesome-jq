@@ -28,6 +28,7 @@ _Standalone implementations of the jq language._
 * [query-json (`q`)](https://github.com/davesnx/query-json) &ndash; query-json is a faster, simpler and more portable implementation of the jq language in Reason.
 * [xq](https://github.com/MiSawa/xq) Pure rust implementation of jq
 * [jq.js](https://github.com/mwh/jqjs) Pure Javascript implementation of jq
+* [jqjq](https://github.com/wader/jqjq) jq implementation of jq
 
 Tools
 ------------------------------------------------------------------------
