@@ -48,6 +48,7 @@ _jq-based JSON visualizers and explorers_.
 * [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) zsh line editor for constructing jq queries interactively.
 * [fq](https://github.com/wader/fq) &ndash; jq for binary formats
 * [jq-fish-plugin](https://github.com/jihchi/jq-fish-plugin) &ndash; Inspired by [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin), interactively build jq expressions in fish shell.
+* [jqp](https://github.com/noahgorstein/jqp) – a TUI playground for exploring jq.
 
 ### Web
 
@@ -58,6 +59,7 @@ _jq-based JSON visualizers and explorers_.
 * [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses `jq-web`.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
+* [jqterm](https://jqterm.com) ([github](https://github.com/remy/jqterm)) – Online playground - "jq as a service"
 
 ### Desktop
 
@@ -101,6 +103,7 @@ _Readings about jq_.
 
 * [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) &ndash; Dozens of algorithms written in jq .
 * [Builtins](https://github.com/stedolan/jq/blob/master/src/builtin.jq) &ndash; jq builtins coded in _jq_ itself, not C.
+* [Collection of jq recipes](https://remysharp.com/drafts/jq-recipes)
 
 ### Documentation browsers
 
@@ -115,7 +118,6 @@ _Apps using jq in the wild_.
 * [sc](https://github.com/annacrombie/sc) &ndash; A lightweight [SoundCloud](https://soundcloud.com/) client, with a composable api, powered by jq.
 * [jc](https://github.com/kellyjonbrazil/jc) &ndash; CLI tool that converts the output of popular command-line programs and filetypes to JSON so they can be piped to jq.
 * [jqt](https://fadado.github.io/jqt/index.html) ([github](https://github.com/fadado/jqt)) &ndash; A web template engine that uses jq as expression language.
-* [Vudash](https://vudash.com/#/transformers/?id=jq-transformer-vudashtransformer-jq) &ndash; A flexible and JSON-powered configurable open-source dashboard with support for a jq transformer.
 * [datasette-jq](https://github.com/simonw/datasette-jq) &ndash; A plugin that enables jq queries on JSON columns on [datasette](https://datasette.readthedocs.io/) deployments.
 * [jtool](https://github.com/fadado/jtool) &ndash; jq-based JSON tools for a modern shell.
 * [just-dashboard](https://kantord.github.io/just-dashboard/) &ndash; A serverless app for implementing JSON-powered dashboards with JSON or YAML files (and jq filters as strings) serving as the only source of configuration.
