@@ -105,6 +105,7 @@ _Readings about jq_.
 * [Builtins](https://github.com/stedolan/jq/blob/master/src/builtin.jq) &ndash; jq builtins coded in _jq_ itself, not C.
 * [Collection of jq recipes](https://remysharp.com/drafts/jq-recipes)
 * [Collection of interactive jq examples](https://ishan.page/blog/2023-11-06-jq-by-example/) &ndash; Dozens of interactive jq examples (and explanations) in the browser.
+* [Collection of jq oneliners](https://nntrn.github.io/jq-recipes/)
 
 ### Documentation browsers
 
