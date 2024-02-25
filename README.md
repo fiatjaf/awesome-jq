@@ -1,4 +1,4 @@
-Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://stedolan.github.io/jq/jq.png" width="200" align="right" alt="./jq">](https://github.com/stedolan/jq)
+Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://jqlang.github.io/jq/jq.svg" width="200" align="right" alt="./jq">](https://github.com/jqlang/jq)
 ========================================================================
 
 A curated list of awesome things built with the JSON processor and
@@ -22,7 +22,7 @@ Implementations
 
 _Standalone implementations of the jq language._
 
-* [jq](https://stedolan.github.io/jq/) ([github](https://github.com/stedolan/jq)) &ndash; The original jq command-line JSON processor.
+* [jq](https://jqlang.github.io/jq/) ([github](https://github.com/jqlang/jq)) &ndash; The original jq command-line JSON processor.
 * [gojq](https://github.com/itchyny/gojq) &ndash; A jq implementation in Go.
 * [jaq](https://lib.rs/crates/jaq) &ndash; A jq implementation in Rust that misses some small features but is often more correct than the original.
 * [query-json (`q`)](https://github.com/davesnx/query-json) &ndash; query-json is a faster, simpler and more portable implementation of the jq language in Reason.
@@ -85,10 +85,10 @@ _Readings about jq_.
 
 ### Core documentation
 
-* [Manual](https://stedolan.github.io/jq/manual/) &ndash; jq manual (development version).
-* [FAQ](https://github.com/stedolan/jq/wiki/FAQ) &ndash; jq FAQ.
-* [Cookbook](https://github.com/stedolan/jq/wiki/Cookbook) &ndash; jq cookbook.
-* [Advanced Topics](https://github.com/stedolan/jq/wiki/Advanced-Topics) &ndash; jq advanced topics.
+* [Manual](https://jqlang.github.io/jq/manual/) &ndash; jq manual (development version).
+* [FAQ](https://github.com/jqlang/jq/wiki/FAQ) &ndash; jq FAQ.
+* [Cookbook](https://github.com/jqlang/jq/wiki/Cookbook) &ndash; jq cookbook.
+* [Advanced Topics](https://github.com/jqlang/jq/wiki/Advanced-Topics) &ndash; jq advanced topics.
 
 ### Good small specific tutorials
 
@@ -102,7 +102,7 @@ _Readings about jq_.
 ### Code examples
 
 * [jq at Rosetta Code](http://rosettacode.org/wiki/Category:Jq) &ndash; Dozens of algorithms written in jq .
-* [Builtins](https://github.com/stedolan/jq/blob/master/src/builtin.jq) &ndash; jq builtins coded in _jq_ itself, not C.
+* [Builtins](https://github.com/jqlang/jq/blob/master/src/builtin.jq) &ndash; jq builtins coded in _jq_ itself, not C.
 * [Collection of jq recipes](https://remysharp.com/drafts/jq-recipes)
 * [Collection of interactive jq examples](https://ishan.page/blog/2023-11-06-jq-by-example/) &ndash; Dozens of interactive jq examples (and explanations) in the browser.
 * [Collection of jq oneliners](https://nntrn.github.io/jq-recipes/)
