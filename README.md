@@ -132,7 +132,7 @@ Libraries and tools for jq itself
 
 _Incrementing jq capabilities_.
 
-* [jqnpm](https://github.com/joelpurra/jqnpm) &ndash; A jq package manager that installs modules from GitHub and runs jq scripts.
+* [jqnpm](https://github.com/jqnpm/jqnpm) &ndash; A jq package manager that installs modules from GitHub and runs jq scripts.
 * [JBOL](https://github.com/fadado/JBOL) &ndash; A collection of utility modules for jq (math, prelude, set, string etc.).
 * [bigint](https://github.com/joelpurra/jq-bigint), [array](https://github.com/joelpurra/jq-disarray), [string](https://github.com/joelpurra/jq-stress) and [other libraries](https://github.com/joelpurra?utf8=%E2%9C%93&tab=repositories&q=jq) &ndash; jq libraries from the author of jqnpm.
 
