@@ -49,6 +49,7 @@ _jq-based JSON visualizers and explorers_.
 * [fq](https://github.com/wader/fq) &ndash; jq for binary formats
 * [jq-fish-plugin](https://github.com/jihchi/jq-fish-plugin) &ndash; Inspired by [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin), interactively build jq expressions in fish shell.
 * [jqp](https://github.com/noahgorstein/jqp) – a TUI playground for exploring jq.
+* [jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq with navigation and autocompletion.
 
 ### Web
 
