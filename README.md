@@ -138,6 +138,11 @@ _Incrementing jq capabilities_.
 * [JBOL](https://github.com/fadado/JBOL) &ndash; A collection of utility modules for jq (math, prelude, set, string etc.).
 * [bigint](https://github.com/joelpurra/jq-bigint), [array](https://github.com/joelpurra/jq-disarray), [string](https://github.com/joelpurra/jq-stress) and [other libraries](https://github.com/joelpurra?utf8=%E2%9C%93&tab=repositories&q=jq) &ndash; jq libraries from the author of jqnpm.
 * [jq-jsonpointer](https://github.com/nichtich/jq-jsonpointer) &ndash; jq module implementing JSON Pointer (RFC 6901)
+* [tree-sitter-jq](https://github.com/nverno/tree-sitter-jq) &ndash; Tree sitter grammar implementation for Jq language
+
+------------------------------------------------------------------------
+
+
 
 External libraries
 ------------------------------------------------------------------------
