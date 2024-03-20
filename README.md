@@ -79,6 +79,7 @@ _jq-based JSON visualizers and explorers_.
 * [vim-jqplay](https://github.com/bfrg/vim-jqplay) &ndash; Interactive jq playground inside Vim.
 * `:%!jq '.'` is a Vim command that formats JSON in-place with jq (beware of any other tricks you might be thinking of).
 * [vscode-jq](https://github.com/wader/vscode-jq) + [jq-lsp](https://github.com/wader/jq-lsp) VSCode jq extension with LSP support. Syntax highlight, syntax checking, completion and hover documentation.
+* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) Syntax file to use bat to syntax highlight jq files
 
 Documentation
 ------------------------------------------------------------------------
