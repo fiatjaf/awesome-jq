@@ -26,9 +26,9 @@ _Standalone implementations of the jq language._
 * [gojq](https://github.com/itchyny/gojq) &ndash; A jq implementation in Go.
 * [jaq](https://lib.rs/crates/jaq) &ndash; A jq implementation in Rust that misses some small features but is often more correct than the original.
 * [query-json (`q`)](https://github.com/davesnx/query-json) &ndash; query-json is a faster, simpler and more portable implementation of the jq language in Reason.
-* [xq](https://github.com/MiSawa/xq) Pure rust implementation of jq
-* [jq.js](https://github.com/mwh/jqjs) Pure Javascript implementation of jq
-* [jqjq](https://github.com/wader/jqjq) jq implementation of jq
+* [xq](https://github.com/MiSawa/xq) &ndash; Pure rust implementation of jq
+* [jq.js](https://github.com/mwh/jqjs) &ndash; Pure Javascript implementation of jq
+* [jqjq](https://github.com/wader/jqjq) &ndash; jq implementation of jq
 
 Tools
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ _jq-based JSON visualizers and explorers_.
 * [yiq](https://github.com/zoetrope/yiq) &ndash; Like `jiq`, but using `yq` instead, so it supports YAML documents.
 * [ijq](https://github.com/fiatjaf/ijq) &ndash; jq REPL with automatic variable assignment and global statements support.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
-* [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) zsh line editor for constructing jq queries interactively.
+* [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) &ndash; zsh line editor for constructing jq queries interactively.
 * [fq](https://github.com/wader/fq) &ndash; jq for binary formats
 * [jq-fish-plugin](https://github.com/jihchi/jq-fish-plugin) &ndash; Inspired by [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin), interactively build jq expressions in fish shell.
-* [jqp](https://github.com/noahgorstein/jqp) – a TUI playground for exploring jq.
-* [jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq with navigation and autocompletion.
-* [jqunit](https://github.com/mrwilson/jqunit) - A test framework for JQ, written in Rust, on top of libjq.
+* [jqp](https://github.com/noahgorstein/jqp) &ndash; a TUI playground for exploring jq.
+* [jnv](https://github.com/ynqa/jnv) &ndash; interactive JSON filter using jq with navigation and autocompletion.
+* [jqunit](https://github.com/mrwilson/jqunit) &ndash; A test framework for JQ, written in Rust, on top of libjq.
 
 ### Web
 
-* [query-json playground](https://query-json.netlify.app)  &ndash; Web playground that uses `query-json` compiled to JavaScript.
+* [query-json playground](https://query-json.netlify.app) &ndash; Web playground that uses `query-json` compiled to JavaScript.
 * [jiq-web](https://jq.alhur.es/jiq/) ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for jq with sharing capabilities.
 * [jq kung fu](https://www.jqkungfu.com/) &ndash; A jq playground in WebAssembly powered by the original jq compiled with _emscripten_.
 * [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses `jq-web`.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
-* [jqterm](https://jqterm.com) ([github](https://github.com/remy/jqterm)) – Online playground - "jq as a service"
+* [jqterm](https://jqterm.com) ([github](https://github.com/remy/jqterm)) &ndash; Online playground - "jq as a service"
 
 ### Desktop
 
@@ -78,8 +78,9 @@ _jq-based JSON visualizers and explorers_.
 * [vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) &ndash; A jq playground notebook extension for VS Code.
 * [vim-jqplay](https://github.com/bfrg/vim-jqplay) &ndash; Interactive jq playground inside Vim.
 * `:%!jq '.'` is a Vim command that formats JSON in-place with jq (beware of any other tricks you might be thinking of).
-* [vscode-jq](https://github.com/wader/vscode-jq) + [jq-lsp](https://github.com/wader/jq-lsp) VSCode jq extension with LSP support. Syntax highlight, syntax checking, completion and hover documentation.
-* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) Syntax file to use bat to syntax highlight jq files
+* [jq-lsp](https://github.com/wader/jq-lsp) &ndash; jq language server. Works with VSCode, neovim and Emacs. Has syntax and scope checking, goto defintion, completion and hover documentation.
+* [vscode-jq](https://github.com/wader/vscode-jq) &ndash; VSCode jq extension that uses [jq-lsp](https://github.com/wader/jq-lsp). Has syntax highlight, snippets and everything jq-lsp provides.
+* [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) &ndash; Syntax file to use bat to syntax highlight jq files
 
 Documentation
 ------------------------------------------------------------------------
