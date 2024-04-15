@@ -102,6 +102,7 @@ _Readings about jq_.
 * [jq is sed for JSON](https://robots.thoughtbot.com/jq-is-sed-for-json).
 * [Mastering jq: part 1](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
 * [An Introduction to JQ](https://earthly.dev/blog/jq-select/)
+* [Articles exploring and using jq for data tasks](https://qmacro.org/tags/jq/)
 
 ### Code examples
 
