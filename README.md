@@ -11,6 +11,7 @@ _turing-complete functional language_ **jq**.
   * [Use Cases](#use-cases)
   * [Libraries and tools for jq itself](#libraries-and-tools-for-jq-itself)
   * [External libraries](#external-libraries)
+  * [Podcasts and presentations](#podcasts-and-presentations)
   * [Contribute](#contribute)
   * [License](#license)
 
@@ -166,6 +167,12 @@ _Using jq from other languages_.
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to jq.
 * [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A jq filter for [Ansible](https://ansible.com) configuration manager.
 
+
+Podcasts and presentations
+------------------------------------------------------------------------
+
+* [ThePrimeTime - The BEST CLI Tool](https://www.youtube.com/watch?v=n8sOmEe2SDg)
+* [Programming By Stealth episodes about jq](https://www.podfeet.com/blog/tag/jq/)
 
 Contribute
 ------------------------------------------------------------------------
