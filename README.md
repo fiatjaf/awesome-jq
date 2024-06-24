@@ -172,7 +172,7 @@ Podcasts and presentations
 ------------------------------------------------------------------------
 
 * [ThePrimeTime - The BEST CLI Tool](https://www.youtube.com/watch?v=n8sOmEe2SDg)
-* [Programming By Stealth episodes about jq](https://www.podfeet.com/blog/tag/jq/)
+* [Programming By Stealth](https://pbs.bartificer.net/) ([instalments](https://pbs.bartificer.net/#instalments) PBS 155 to PBS 167)
 
 Contribute
 ------------------------------------------------------------------------
