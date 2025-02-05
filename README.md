@@ -146,6 +146,7 @@ _Incrementing jq capabilities_.
 * [bigint](https://github.com/joelpurra/jq-bigint), [array](https://github.com/joelpurra/jq-disarray), [string](https://github.com/joelpurra/jq-stress) and [other libraries](https://github.com/joelpurra?utf8=%E2%9C%93&tab=repositories&q=jq) &ndash; jq libraries from the author of jqnpm.
 * [jq-jsonpointer](https://github.com/nichtich/jq-jsonpointer) &ndash; jq module implementing JSON Pointer (RFC 6901)
 * [tree-sitter-jq](https://github.com/nverno/tree-sitter-jq) &ndash; Tree sitter grammar implementation for Jq language
+* [json5.jq](https://github.com/wader/json5.jq) JSON5 implementation for jq
 
 ------------------------------------------------------------------------
 
