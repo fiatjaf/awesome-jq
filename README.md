@@ -57,10 +57,10 @@ _jq-based JSON visualizers and explorers_.
 ### Web
 
 * [query-json playground](https://query-json.netlify.app) &ndash; Web playground that uses `query-json` compiled to JavaScript.
-* [jiq-web](https://jq.alhur.es/jiq/) ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
+* jiq-web ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for jq with sharing capabilities.
 * [jq kung fu](https://www.jqkungfu.com/) &ndash; A jq playground in WebAssembly powered by the original jq compiled with _emscripten_.
-* [jq-finder](https://jq.alhur.es/finder/) ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses `jq-web`.
+* jq-finder ([github](https://github.com/fiatjaf/jq-finder)) &ndash; A multipanel, Finder-like, JSON explorer with jq filters instead of paths, uses `jq-web`.
 * [jqaas](https://github.com/captn3m0/jqaas) &ndash; jq as a service, an open HTTP endpoint that executes jq queries.
 * [jqp](https://github.com/sighrobot/jqp) &ndash; A free serverless proxy for filtering JSON and CSV data using jq.
 * [jqterm](https://jqterm.com) ([github](https://github.com/remy/jqterm)) &ndash; Online playground - "jq as a service"
