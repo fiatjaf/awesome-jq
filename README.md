@@ -84,6 +84,7 @@ _jq-based JSON visualizers and explorers_.
 * [jq-lsp](https://github.com/wader/jq-lsp) &ndash; jq language server. Works with VSCode, neovim and Emacs. Has syntax and scope checking, goto defintion, completion and hover documentation.
 * [vscode-jq](https://github.com/wader/vscode-jq) &ndash; VSCode jq extension that uses [jq-lsp](https://github.com/wader/jq-lsp). Has syntax highlight, snippets and everything jq-lsp provides.
 * [bat syntax highlighting](https://github.com/jqlang/jq/wiki/bat-language-syntax) &ndash; Syntax file to use bat to syntax highlight jq files
+* [jqExpress](https://plugins.jetbrains.com/plugin/23360-jqexpress) &ndash; A jq extension for JetBrains IDEs
 
 Documentation
 ------------------------------------------------------------------------
