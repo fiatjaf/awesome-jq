@@ -45,6 +45,7 @@ _jq-based JSON visualizers and explorers_.
 * [yq](https://github.com/kislyuk/yq) (and `xq`) &ndash; jq wrapper for YAML and XML documents.
 * [yiq](https://github.com/zoetrope/yiq) &ndash; Like `jiq`, but using `yq` instead, so it supports YAML documents.
 * [ijq](https://github.com/fiatjaf/ijq) &ndash; jq REPL with automatic variable assignment and global statements support.
+* [ijq](https://codeberg.org/gpanders/ijq) &ndash; Interactive jq tool. Like [jqplay](https://jqplay.org/) for the commandline.
 * [jqsh](https://github.com/bmatsuo/jqsh) &ndash; An interactive wrapper written in Go.
 * [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) &ndash; zsh line editor for constructing jq queries interactively.
 * [fq](https://github.com/wader/fq) &ndash; jq for binary formats
@@ -190,3 +191,4 @@ License
 ------------------------------------------------------------------------
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
