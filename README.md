@@ -57,6 +57,10 @@ _jq-based JSON visualizers and explorers_.
 
 ### Web
 
+* [JSON For You](https://json4u.com) &ndash; A all-in-one JSON toolset, provides the function of executing jq online.
+
+  <img src="https://raw.githubusercontent.com/loggerhead/json4u/refs/heads/main/public/example/jq.gif">
+
 * [query-json playground](https://query-json.netlify.app) &ndash; Web playground that uses `query-json` compiled to JavaScript.
 * jiq-web ([github](https://github.com/fiatjaf/jiq-web)) &ndash; `jiq`, but in a web page, uses `jq-web`.
 * [jq play](https://jqplay.org/) ([github](https://github.com/jingweno/jqplay)) &ndash; A playground for jq with sharing capabilities.
